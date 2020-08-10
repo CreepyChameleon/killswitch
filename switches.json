@@ -1,5 +1,3 @@
 {
-  # true = able to run
-  # false = unable to run
   "discord bot": true
 }
